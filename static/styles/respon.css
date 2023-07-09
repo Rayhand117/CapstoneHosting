@@ -1,0 +1,65 @@
+@media all and (max-width: 1020px) {
+  .tombol {
+      font-size: 1rem;
+  }
+  .grid1-2 h3 {
+      font-size: 1em;
+  }
+}
+@media all and (max-width: 669px) {
+  .grid1-1 h2{
+      font-size: 1em;
+  }
+  .grid1-2 h3 {
+      font-size: 0.8em;
+  }
+}
+@media all and (max-width: 805px) {
+  .grid3-1 {
+      display: flex;
+      box-sizing: border-box;
+      flex-direction: column;
+      gap: 1em;
+  }
+  .grid2-3 a {
+      font-size: 1.5em;
+  }
+}
+@media all and (max-width: 420px) {
+  .GRID1 {
+      position: relative;
+      grid-template-columns: 1fr 1fr 1fr 2.5fr;
+      grid-template-rows: 1fr 1fr;
+      grid-template-areas: 
+      "harold harold harold darurat"
+      "telp telp telp telp"
+  }
+  .grid1-1 {
+      grid-area: harold;
+      color: rgb(0, 0, 0);
+      text-align: right;
+  }
+  .grid1-2 {
+      grid-area: telp;
+      text-align: center;
+  }
+  .grid1-3 {
+      grid-template-columns: 80%;
+      justify-content: start;
+  }
+  .GIRD2 {
+      margin-top: 0px;
+  }
+  .grid2-3 a {
+      font-size: 1em;
+  }
+  .grid3-1 a {
+      font-size: 1em;
+  }
+  .kartu3 {
+      text-align: center;
+  }
+  .grid8-2{
+      text-align: center;
+  }
+}
