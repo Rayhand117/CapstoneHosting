@@ -1,5 +1,5 @@
 // popup login
-document.querySelector("#show-login").addEventListener("click", function () {
+document.querySelector(".show-login").addEventListener("click", function () {
   document.querySelector(".popup").classList.add("active");
 });
 document.querySelector(".popup .close-btn").addEventListener("click", function () {
@@ -17,7 +17,7 @@ document.querySelector('.form-element button').addEventListener('click', functio
 });
 // jika terdapat cookie, maka <a></a> dengan id show-login diganti dengan "Selamat Datang"
 if (document.cookie == 'yes') {
-  document.querySelector('a#show-login').textContent = "Selamat Datang"
+  document.querySelector('a.show-login').textContent = "Selamat Datang"
 };
 // fungsi tombol log out
 // mereset cookie jika tersedia, kemudian reload page
