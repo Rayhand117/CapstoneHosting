@@ -1,6 +1,6 @@
 <h1>About this Project</h1>
 
-Predict Ferrari's HIGHEST//LOWEST price of the day with no proven accuracy🙂🥲!
+Predict Ferrari's Lowest price of the day with no proven accuracy🙂🥲!
 
 ## Disclaimer:
 
