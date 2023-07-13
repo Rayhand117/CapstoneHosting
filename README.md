@@ -84,7 +84,7 @@ https://github.com/IBM/predict-insurance-charges-with-autoai
 
 https://github.com/IBM/predict-insurance-charges-with-autoai
 
-4. Used Features
+4. Used IBM Features
 - Cloud Object Storage
 - Watson Assistant
 - Watson Machine Learning
