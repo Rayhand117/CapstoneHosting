@@ -85,10 +85,10 @@ https://github.com/IBM/predict-insurance-charges-with-autoai
 https://github.com/IBM/predict-insurance-charges-with-autoai
 
 4. Used IBM Features
-- Cloud Object Storage
-- Watson Assistant
-- Watson Machine Learning
 - Watson Studio
+- Cloud Object Storage
+- Watson Machine Learning
+- Watson Assistant
 
 5. Code yang di upload di Github di tampilkan
 - https://github.com/Rayhand117/CapstoneHosting
