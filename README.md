@@ -8,6 +8,10 @@ Further Research are Necessary:v
 
 Do it on Your Own Risk!
 
+## Purpose of this Project:
+
+To gain trust and attract prospective customers
+
 <h2>Datasets</h2>
 Here, are the datasets that are collected from yahoo finance taken within the last 5 years (7 July 2018 - 3 July 2023).
 
